@@ -1,4 +1,4 @@
 # ginrummy
-Juego de naipes Gin Rummy en C \n
+Juego de naipes Gin Rummy en C
 Estudiantes: Erick Antonio García
 Erick Sancho 
